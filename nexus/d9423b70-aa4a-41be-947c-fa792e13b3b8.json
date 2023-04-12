@@ -1,0 +1,7 @@
+{
+  "message": "It's best to walk through example projects. for instanceLet's make a ultra simple chatbot using OpenAI Text-ADA-002 (embeddings) for searchability - we will index each chat message back and forth. And then we will store all messages in a Pinecone index. I want you to write a Python script that will do this for me",
+  "speaker": "USER",
+  "time": 1681335554.0640194,
+  "timestring": "Wednesday, April 12, 2023 at 09:39PM ",
+  "uuid": "d9423b70-aa4a-41be-947c-fa792e13b3b8"
+}

@@ -1,2 +1,4 @@
 key_openai.txt
 key_pinecone.txt
+.env
+openaiapikey.txt

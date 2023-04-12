@@ -1,0 +1,7 @@
+{
+  "message": "Sure, I can help you write a Python script to do this. First, you will need to import the OpenAI Text-ADA-002 embeddings and the Pinecone Vector Database. Then, you will need to create a function that will take in the chat messages and index them in the Pinecone Vector Database. This function should also store the messages in the Pinecone index. Finally, you will need to create a loop that will iterate through the chat messages and call the function to index and store them. Once you have written the script, you will need to test it to make sure it is working correctly. Do you have any questions about the process of writing the script?",
+  "speaker": "RAVEN",
+  "time": 1681335558.7438052,
+  "timestring": "Wednesday, April 12, 2023 at 09:39PM ",
+  "uuid": "f0999c3c-f90d-4644-9715-13f5b3ed7f18"
+}
